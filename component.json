@@ -1,0 +1,10 @@
+{
+	"name": "EventPauser",
+	"repo": "Wizcorp/event-pauser",
+	"description": "Mutexes for the browser",
+	"version": "0.1.0",
+	"scripts": [
+		"index.js"
+	],
+	"license": "MIT"
+}
